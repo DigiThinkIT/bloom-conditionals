@@ -64,8 +64,8 @@ const myComponent = (props) => {
 [build-badge]: https://travis-ci.org/DigiThinkIT/bloom-conditionals.svg?branch=master
 [build]: https://travis-ci.org/DigiThinkIT/bloom-conditionals
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
+[npm-badge]: https://img.shields.io/npm/v/bloom-conditionals.svg
+[npm]: https://www.npmjs.com/package/bloom-conditionals
 
 [coveralls-badge]: https://coveralls.io/repos/github/DigiThinkIT/bloom-conditionals/badge.svg
 [coveralls]: https://coveralls.io/github/DigiThinkIT/bloom-conditionals
