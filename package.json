@@ -1,7 +1,7 @@
 {
   "name": "bloom-conditionals",
   "version": "1.0.0",
-  "description": "bloom-conditionals React component",
+  "description": "A ReactJS Conditional Component without external dependencies.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -28,7 +28,7 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1"
   },
-  "author": "",
+  "author": "Felipe Orellana <forellana@bloomstack.com>",
   "homepage": "",
   "license": "MIT",
   "repository": "",
