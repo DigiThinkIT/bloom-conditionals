@@ -31,7 +31,10 @@
   "author": "Felipe Orellana <forellana@bloomstack.com>",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigiThinkIT/bloom-conditionals.git"
+  },
   "keywords": [
     "react-component"
   ]
