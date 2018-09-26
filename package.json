@@ -1,6 +1,6 @@
 {
   "name": "bloom-conditionals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A ReactJS Conditional Component without external dependencies.",
   "main": "lib/index.js",
   "module": "es/index.js",

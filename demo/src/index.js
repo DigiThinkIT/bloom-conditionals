@@ -133,6 +133,22 @@ class Demo extends Component {
           </Condition>
         </div>
       </div>      
+      <div className="example">
+        <p>Never render test: </p>
+        <pre>
+          {[
+            "<Condition test={this.state.value}>\n",
+            "   <When value={v => v === \"bacon\"}>Is false</When>\n",
+            "</Condition>"
+          ]}
+        </pre>
+        Result: 
+        <div className="result">
+          <Condition test={this.state.value}>
+            <When value={v => v === "bacon"}>Is false</When>
+          </Condition>
+        </div>
+      </div>      
     </div>
   }
 }

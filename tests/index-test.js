@@ -66,7 +66,6 @@ describe('Component', () => {
       <When value={false}>Was False</When>
       <Else>Was Else</Else>
     </Condition>, node, () => {
-      console.log(node.innerHTML);
       expect(node.innerHTML).toContain('Was True')
     })
   })
